@@ -4,7 +4,7 @@
   <img src="https://github.com/kiranraj62/kiranraj62/blob/1366846537e57ee5221d3667204951ae5ba8e8ec/images/kiran.gif.gif" width=400>
   <br><br>
   <samp>
-    I'm <a href="https://kiranraj62.github.io/">Kiran</a> I'm an aspiring  Software Developer and i have developed multiple web appplications. I recently completed my masters in computer applications :computer: at <a href="https://rit.ac.in/">Rajiv Gandhi Institute Of Technology, Kottayam </a>:school: 
+    I'm <a href="https://kiranraj62.github.io/">Kiran</a> ,I Wish to begin my career as a good Software Engineer by working on challenging projects. I recently completed my masters in computer applications :computer: at <a href="https://rit.ac.in/">Rajiv Gandhi Institute Of Technology, Kottayam </a>:school: 
 </p>
 
 ### My Favourite Programming Languages 👨‍💻
