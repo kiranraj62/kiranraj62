@@ -14,8 +14,8 @@
 
 ### My Favourite Frameworks 
 ---
-|<img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flutter.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/flask.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/bootstrap.png" width=60> | 
-|:---:|:---:|:---:|
+|<img src="https://github.com/kiranraj62/kiranraj62/blob/653e5aab4405f4f783be4bb68383e3ddccda1429/images/icons8-react.gif" width=60> | <img src="https://github.com/kiranraj62/kiranraj62/blob/653e5aab4405f4f783be4bb68383e3ddccda1429/images/icons8-django-96.png" width=60> | <img src="https://github.com/kiranraj62/kiranraj62/blob/653e5aab4405f4f783be4bb68383e3ddccda1429/images/icons8-flutter-48.png" width=60> | <img src="https://github.com/kiranraj62/kiranraj62/blob/653e5aab4405f4f783be4bb68383e3ddccda1429/images/bootstrap.png" width=60> | 
+|:---:|:---:|:---:|:---:|
 
 ### My Stats
 ---
