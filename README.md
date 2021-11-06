@@ -1,10 +1,10 @@
 ## Hey 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/working.gif" width=400>
+  <img src="https://github.com/kiranraj62/kiranraj62/blob/1366846537e57ee5221d3667204951ae5ba8e8ec/images/kiran.gif.gif" width=400>
   <br><br>
   <samp>
-    I'm <a href="https://kiranraj62.github.io/">Kiran</a>I'm a Software Developer.i recently completed my Masters in computer applications at Rajiv Gandhi Institute Of Technology, Kottayam :School: .
+    I'm <a href="https://kiranraj62.github.io/">Kiran</a>I'm a Software Developer.i recently completed my Masters in computer applications :computer: at Rajiv Gandhi Institute Of Technology, Kottayam :school: .
 </p>
 
 ### My Favourite Programming Languages 👨‍💻
