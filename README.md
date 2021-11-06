@@ -9,7 +9,7 @@
 
 ### My Favourite Programming Languages 
 ---
-|<img src="https://github.com/kiranraj62/kiranraj62/blob/2b83bcc04bb5565d947d96662b6a2a3ea9b9f2ba/images/html.png" width=60> | <img src="https://github.com/kiranraj62/kiranraj62/blob/2b83bcc04bb5565d947d96662b6a2a3ea9b9f2ba/images/css.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/javascript.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/css.png" width=60> |
+|<img src="https://github.com/kiranraj62/kiranraj62/blob/fce497a9685c3f9ec06caaeb95394a2d2e49df86/images/icons8-python.gif" width=60> | <img src="https://github.com/kiranraj62/kiranraj62/blob/2b83bcc04bb5565d947d96662b6a2a3ea9b9f2ba/images/css.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/javascript.png" width=60> | <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/images/css.png" width=60> |
 |:---:|:---:|:---:|:---:|
 
 ### My Favourite Frameworks 
