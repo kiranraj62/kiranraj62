@@ -1,11 +1,10 @@
-## Hello World 🌎
+## Hey 👋
 
 <p align="center">
-  <img src="https://github.com/kiranraj62/kiranraj62/blob/0a89004b917179a41aadaaed84303511582b0303/images/kiran.gif.gif" width=400>
+  <img src="https://raw.githubusercontent.com/hvkalayil/hvkalayil/master/working.gif" width=400>
   <br><br>
   <samp>
-    I'm <a href="https://kiranraj62.github.io/">Kiran</a> currently a Third Year MCA student at <a href="http://www.rit.ac.in/">@RIT :school: </a> and aspiring software developer:computer:. Interested in working on Application development using Flutter. I like to work on fun projects and implement funny easter eggs in my apps. 🥚
-  </samp>
+    I'm <a href="https://kiranraj62.github.io/">Kiran</a>I'm a Software Developer.i recently completed my Masters in computer applications at Rajiv Gandhi Institute Of Technology, Kottayam :School: .
 </p>
 
 ### My Favourite Programming Languages 👨‍💻
