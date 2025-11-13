@@ -12,14 +12,15 @@ Strong focus on clean architecture, problem-solving, and practical development â
 ### My Favourite Programming Languages 
 ---
 <!-- HTML â€” absolute raw URLs -->
-<img src="https://raw.githubusercontent.com/kiranraj62/kiranraj62/main/images/LXZKuNhIQ5.gif" width="60" alt="icon1" />
-<img src="https://raw.githubusercontent.com/kiranraj62/kiranraj62/main/images/icons8-python.gif" width="60" alt="python" />
-<img src="https://raw.githubusercontent.com/kiranraj62/kiranraj62/main/images/c-programming.png" width="60" alt="c" />
-<img src="https://raw.githubusercontent.com/kiranraj62/kiranraj62/main/images/icons8-c++.png" width="60" alt="cpp" />
-<img src="https://raw.githubusercontent.com/kiranraj62/kiranraj62/main/images/icons8-javascript.gif" width="60" alt="js" />
-<img src="https://raw.githubusercontent.com/kiranraj62/kiranraj62/main/images/icons8-css-file-64.png" width="60" alt="css" />
+<p>
+  <img src="images/LXZKuNhIQ5.gif" width="60">
+  <img src="images/icons8-python.gif" width="60">
+  <img src="images/c-programming.png" width="60">
+  <img src="images/icons8-c++.png" width="60">
+  <img src="images/icons8-javascript.gif" width="60">
+  <img src="images/icons8-css-file-64.png" width="60">
+</p>
 
-|:---:|:---:|:---:|:---:|:---:|
 
 ### My Favourite Frameworks 
 ---
