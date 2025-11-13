@@ -14,11 +14,10 @@ Strong focus on clean architecture, problem-solving, and practical development â
 <!-- HTML â€” absolute raw URLs -->
 <p>
   <img src="images/LXZKuNhIQ5.gif" width="60">
+  <img src="images/flutter.gif" width="60">
   <img src="images/icons8-python.gif" width="60">
   <img src="images/c-programming.png" width="60">
   <img src="images/icons8-c++.png" width="60">
-  <img src="images/icons8-javascript.gif" width="60">
-  <img src="images/icons8-css-file-64.png" width="60">
 </p>
 
 
